@@ -48,7 +48,7 @@ input#vomnibarInput.vimiumReset {
 }
 
 #vomnibar li.vomnibarSelected {
-    background-color: #181D24;
+    background-color: #000000;
 }
 
 #vomnibar li em .vomnibarMatch, #vomnibar li .vomnibarTitle .vomnibarMatch {
